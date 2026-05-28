@@ -1,5 +1,3 @@
-# Turma TI 2025
-
 Bem-vindos ao repositório da prática de Git. Este projeto estático serve como ponto de partida para cada calouro criar seu próprio card na página e enviar a contribuição via Pull Request.
 
 ## Como participar

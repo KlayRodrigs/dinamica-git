@@ -11,13 +11,13 @@ git clone https://github.com/KlayRodrigs/dinamica-git.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd dinamica-curso
+cd dinamica-git
 ```
 
 3. Crie uma branch com seu nome:
 
 ```bash
-git checkout -b feat/add-card-seu-nome
+git checkout -b "codigo da branch"
 ```
 
 4. Edite `index.html` e adicione seu card onde está o comentário `<!-- ADICIONE SEU CARD AQUI -->`.
